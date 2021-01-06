@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83971207533",
+    "project_id": "android-16554",
+    "storage_bucket": "android-16554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83971207533:android:6636d7696202a5f44cea64",
+        "android_client_info": {
+          "package_name": "br.com.faustino.lojaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83971207533-rns6ip6car7n0gi8s42ehbrfkr1pumhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2ZUi31aq8ayeb9b7FxWdksrLwSYout0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83971207533-rns6ip6car7n0gi8s42ehbrfkr1pumhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
